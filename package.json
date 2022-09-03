@@ -1,10 +1,12 @@
 {
 	"name": "zod-validate-env",
+  	"sideEffects": false,
 	"version": "0.0.0",
 	"description": "",
 	"main": "dist/cjs/index.js",
 	"private": false,
 	"scripts": {
+	  	"test": "echo \"will add tests soon\"",
 		"changeset": "changeset",
 		"version-packages": "changeset version",
 		"release": "pnpm build && changeset publish",
