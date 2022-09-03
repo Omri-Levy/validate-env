@@ -1,0 +1,9 @@
+dist
+node_modules
+.vscode
+.idea
+*.logs
+.env*
+*.tgz
+logs
+coverage
