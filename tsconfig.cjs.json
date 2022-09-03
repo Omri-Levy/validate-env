@@ -7,7 +7,7 @@
 	  "dom.iterable"
 	],
 	"module": "CommonJS",
-	"target": "es2015",
+	"target": "es2017",
 	"outDir": "./dist/cjs"
   },
   "include": [
